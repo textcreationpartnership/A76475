@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentation for the deceived people of the world. But in particular to them of Alesbury, and those small villages round about her; who are carried away captive by her priests and teachers, laden with sins, ever learning, and never able to come to the knowledge of the truth, nor never will, but by the owning the light which comes from the Son of God, the Saviour of all them that believe in the light, and the condemnation of all that hate it.</title>
+            <author>Bettris, Jeane.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76475</idno>
+            <idno type="STC">Wing B2085</idno>
+            <idno type="STC">Thomason E931_4</idno>
+            <idno type="STC">ESTC R207690</idno>
+            <idno type="EEBO-CITATION">99866728</idno>
+            <idno type="PROQUEST">99866728</idno>
+            <idno type="VID">168501</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168501)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 140:E931[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentation for the deceived people of the world. But in particular to them of Alesbury, and those small villages round about her; who are carried away captive by her priests and teachers, laden with sins, ever learning, and never able to come to the knowledge of the truth, nor never will, but by the owning the light which comes from the Son of God, the Saviour of all them that believe in the light, and the condemnation of all that hate it.</title>
+                  <author>Bettris, Jeane.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Jeane Bettris.</note>
+                  <note>Annotation on Thomason copy: "of a Quaker", "Decem: 8: 1657".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title">
+            <pb n="1" facs="tcp:168501:1" rendition="simple:additions"/>
+            <p>A LAMENTATION <hi>FOR THE</hi> Deceived People of the WORLD.</p>
+            <p>But in particular To them of <hi>Alesbury,</hi> and thoſe ſmall Villages round about her; who are carried away captive by her Prieſts and Teachers, la<g ref="char:EOLhyphen"/>den with ſins, ever learning, and never able to come to the knowledge of the Truth, nor never will, but by owning the Light which comes from the Son of God, the Saviour of all them that believe in the Light, and the Con<g ref="char:EOLhyphen"/>demnation of all that hate it.</p>
+            <q>
+               <hi>The Leaders of my People cauſeth them to erre, and my People periſh for lack of knowledge,</hi> 
+               <bibl>ſaith the Lord.</bibl>
+            </q>
+            <p>
+               <seg rend="decorInit">H</seg>EARKEN and Hear, O Inhabitants of <hi>Alesbury;</hi> And to the ſmall Villages round about thee: for thus ſaith the Lord, Take up a Lamentation for her, and la<g ref="char:EOLhyphen"/>ment her, in this the day of my power, ſaith the Lord; For I have meaſured thee, as I meaſured <hi>Sodome</hi> in the day of her highneſſe, and the ſame ſin that I found in her, is found in thee, ſaith the Lord, pride, haughtineſſe, and fulneſſe of bread, ſo that thou loa<g ref="char:EOLhyphen"/>theſt the honey and the honey comb; ſo that the voice of
+<pb n="2" facs="tcp:168501:2"/> the Lord is not heard in thee, through the greatneſſe of thy pride and thy Idolatry: Oh how the Juſt is oppreſſed as a cart is preſſed that is full of ſheaves, through the abomina<g ref="char:EOLhyphen"/>tions and the witch craft which is committed in thee; there<g ref="char:EOLhyphen"/>fore the flight ſhall periſh from the ſwift, and the ſtrong ſhall not ſtrengthen his force, neither ſhall the mighty de<g ref="char:EOLhyphen"/>liver himſelfe, neither ſhall he ſtand which handleth the Bow, and he that is ſwift of foot ſhall not deliver himſelfe, neither ſhall he that rideth the horſe deliver himſelfe, and he that is couragious among the mighty ſhall flee away na<g ref="char:EOLhyphen"/>ked in that day, ſaith the Lord; <hi>They that have an eare to hear, let them hear.</hi>
+            </p>
+            <p>Therefore Repent, Repent, oh Inhabitants, for the Vialls of the fierce wrath of the Lord God, is to be powred out upon you, except you ſpeedily Repent. The dayes of Viſi<g ref="char:EOLhyphen"/>tation are come, the dayes of recompence are come, <hi>Iſrael</hi> ſhall know it; the Prophet is a fool, the ſpirituall man is mad, for the multitude of thine iniquity, and thy great ha<g ref="char:EOLhyphen"/>tred. Therefore I warn you all in the preſence of the dread<g ref="char:EOLhyphen"/>full God of heaven and earth, that ye repent and return unto the Lord, in this the day of his power, for dreadfull and terrible will he be to all the workers of iniquity.</p>
+            <p>And now conſider, and be thou warned, and bring forth fruits meet for repentance, for the kingdome of heaven is at hand, it is nigh you, its even at the door. Therefore re<g ref="char:EOLhyphen"/>pent, repent, for the crooked way ſhall be made ſtrait, and the rough way ſhall be made ſmooth, and every valley ſhall be filled, and every mountaine and hill ſhall be brought low, that all fleſh may ſee the ſalvation of God. But this ſalvation, and this cry, hath not entred into your ears, who have refuſed the ſervants of the moſthigh God, which hath been ſent often times unto you, with this cry in their mouths, but you have not regarded, nor hearkned to the voice of the Lord, which hath often times been declared amongſt you; and you have deſpiſed them that have been ſent unto you, ſome of them have been kept in your priſon, and ſome have you ſmitten in your Market, and others have bin ſtoned for reproving ſin in
+<pb n="3" facs="tcp:168501:2"/> your ſtreets, and ſome you have ſaid had a Devill, when they have reproved you of ſin: and now is this Scripture fulfil<g ref="char:EOLhyphen"/>led in your eares this day, where Chriſt ſaid, <hi>They ſhall per<g ref="char:EOLhyphen"/>ſecute you, and ſhall ſay all manner of evill falſly againſt you, for my names ſake.</hi>
+            </p>
+            <p>And here thou art found guilty in this the day of the Lord, and of his power, which day makes thee manifeſt, and naked, and bare, before the Lord, who ſearcheth the heart and tries the reines. And none of thy coverings will now cover thee, in this the day of the Lord; if a profeſſion would have ſerved, there is no lack of that in thee, but that will not ſtand in the dreadfull day of God, when thou muſt give an account for every idle word, and for every vaine thought, Then what will become of thy Profeſſion? That is not (that) which will ſtand when the Lord ſhall appear, they are all too narrow they will not cover thee, but ye are all ſeen and comprehended by the children of light, in this the day of his everlaſting power: for you deny the light Chriſt Jeſus, that lighteth every man that cometh into the world; and he that denies the light, wherewith he is ligh<g ref="char:EOLhyphen"/>ted, which ſhines in darkneſſe, though the darkneſſe com<g ref="char:EOLhyphen"/>prehends it not, which light checks and condemns all the deeds of darkneſſe, and all they which denies this, denies the way which leads unto life; This is the ſtrait and narrow way, and few there be that findes it.</p>
+            <p>And herein is the Scripture fulfilled, as it is written, <hi>There is none righteous, no not one, there is none that under<g ref="char:EOLhyphen"/>ſtandeth, there is none that ſeeketh after God, they are all gone out of the way, they are altogether become unprofitable, there is none that doth good no not one, their throat is an open Sepulchre, with their Tongues they have uſed deceit, the poi<g ref="char:EOLhyphen"/>ſon of Asps is under their lips, whoſe mouth is full of curſing and bitterneſſe, they are ſwift to ſhed blood, deſtruction and miſery is in their wayes, and the way of peace they have not known, there is no fear of God before their eyes.</hi>
+            </p>
+            <p>Hear ye ſinners, and ye that live in pride and coveteouſ<g ref="char:EOLhyphen"/>neſſe, in the faſhions and cuſtomes of the world, in the Tra<g ref="char:EOLhyphen"/>ditions
+<pb n="4" facs="tcp:168501:3"/> of men, having mens perſons in admiration for ad<g ref="char:EOLhyphen"/>vantage. And here you are all ſeen to be gone out of the way, Prieſt and People, for the way of peace you cannot witneſſe; but ſome of you declared you have not peace, and others of you complain of a body of ſin, and you have no refuge to flie to, and ſo you are found naked, and your ſin is not covered, <hi>Who is wiſe and he ſhall understand theſe things, (prudent) and he ſhall know them, for the wayes of the Lord are right, and the juſt ſhall walk in them, but the tranſ<g ref="char:EOLhyphen"/>greſſors ſhall fall therein.</hi>
+            </p>
+            <p>And the Prophet deſcribeth, <hi>Bleſſed are they whoſe ini<g ref="char:EOLhyphen"/>quiti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s are forgiven, and whoſe ſins are covered;</hi> but your ſins are not covered, therefore you appear naked, and this bleſſedneſſe is not known unto you: Therefore conſider, are you not out of the way which is pure, and undefiled, which no vulterous eye hath ever ſeen, nor no venomous beaſt hath ever trodden in this path, but it is for the ran<g ref="char:EOLhyphen"/>ſomed and the redeemed of the Lord to walk therein, but redemption you will not own, nor the path which is pure you know not; therefore you are found in the way of <hi>Ba<g ref="char:EOLhyphen"/>lacke,</hi> who offered ſacrafices and burnt offerings to curſe <hi>Iſrael,</hi> whom God had bleſſed; and <hi>Jeſabell</hi> when ſhe had a purpoſe to deſtroy <hi>Naboth,</hi> ſhe cauſed a Faſt, that her in<g ref="char:EOLhyphen"/>tention might be brought to paſſe, nevertheleſſe ſhe had a day, and did not repent, <hi>He that hath an ear to hear, let him hear.</hi>
+            </p>
+            <p>Thereefore I warn you all in the fear and dread of the Lord God to Repent of theſe crimes which is found among you, for none of your coverings will cover you in this the day of the Lord which is coming upon you, and upon all fleſh, for the glory of all fleſh muſt be ſtained in the day of his power, your Steeple-houſe worſhip will not hide you, nor your Baptiſt worſhip will not hide you, your Indepen<g ref="char:EOLhyphen"/>ding will not cover you from the fierce wrath of the Lamb.</p>
+            <p>Therefore woe, woe, is me, how great is my Lamentation for you O Inhabitants, where will you be, or with what
+<pb n="5" facs="tcp:168501:3"/> will you be covered in this terrible day of the Lord, which is coming upon you? For that day is a day of wrath, a day of trouble and diſtreſſe, a day of waſtneſſe and deſolation, a day of darkneſſe and gloomineſſe, a day of clouds and thick darkneſſe, a day of Trumpet and Alarm againſt the fenced Cities, and againſt the high Towers. And I will bring diſtreſſe upon men, that they ſhall walk like blinde men, becauſe they have ſinned againſt the Lord, and their blood ſhall be poured out as duſt, and their fleſh as the dung, neither their ſilver nor their gold ſhall be able to deliver them, in the day of the Lords wrath, but the whole Land ſhall be devoured by the fire of his jealouſie, for he ſhall make even a ſpeedy riddance of all them that dwell in the Land, and a through ſearch will the Lord God make in the earth, and <hi>Jeruſalem</hi> muſt be ſearched with candles, for the Lord God will cleanſe the Land of evill doers, and the Lord knows your manifold Tranſgreſſions, and your mighty Sins, you afflict the Juſt, and ye take a bribe, and ye turn aſide the poor in the gate; therefore the prudent ſhall keep ſi<g ref="char:EOLhyphen"/>lence in that time, for it is an evill time: Therefore whilſt you have time Repent, and ſeek good and not evill, that ye may live; and ſo the Lord, the God of Hoſts, ſhall be with you (as ye have ſpoken) and the light of <hi>Iſrael</hi> ſhall be for a fire, and his holy one for a flame, and it ſhall burn and de<g ref="char:EOLhyphen"/>voure his thorns and his bryars in one day.</p>
+            <p>Therefore come down to the light of Chriſt Jeſus, the light of <hi>Iſrael,</hi> which ſhines in your conſciences, which checks and condemns you, for all your deeds of darkneſſe, and brings to your remembrance all things that ever you have done; is not this the Chriſt which was to come, and why doe you look for another? and there is no other, nor no other Name under heaven, whereby you may be ſaved, but by this name Chriſt Jeſus, the light of the world, and lighteth every man which cometh into the world, which ſuffered at <hi>Jeruſalem</hi> without the gate; this ſame Chriſt doe we own, and witneſſe him to be made manifeſt in us, and to be made ſalvation to us, through the operation of his power
+<pb n="6" facs="tcp:168501:4"/> and his mighty work in us, which works in us both to will and to doe, according to his good pleaſure.</p>
+            <p>And now conſider in the coolneſſe of your ſpirits, and come down to that of God in you, which checks you when you doe amiſſe, and ſhews you that you ſhould not doe ſo: This is that grace of God, which hath appeared to all men, which brings ſalvation, which was always the Saints teacher, and we are taught by it, as the Lord God hath promiſed, and we need no more ſay, know the Lord, for we all know him from the leaſt to the greateſt, and by his teaching we are taught to deny all ungodlineſſe and worldly luſt, and to live ſoberly and righteouſly in this preſent world. Therefore I exhort you all in the fear of the Lord, to come down to this grace of God, which hath appeared unto you, that you may witneſſe your teaching of God, and that will ſtand you in ſtead, when the Lord God ſhall appear with ten thouſand of his Saints, to execute Judgement upon all, and to con<g ref="char:EOLhyphen"/>vince all that are ungodly among them, of all their ungodly deeds, which they have ungodly committed, and all their hard ſpeeches, which ungodly ſinners have ſpoken againſt him. And now while you have time prize it, and ſlight not the day of your Viſitation, leaſt the day of the Lord come upon you as a Thiefe in the night, and there be none to de<g ref="char:EOLhyphen"/>liver you.</p>
+            <div type="part">
+               <head>A Word to you who have ſet your ſelves as Heads and Teachers of this People.</head>
+               <p>YOu are all ſeen in this the day of the Lord, and are all comprehended by the children of light, who walk in the light, that you are out of the ſtrait and narrow way, where there there is no variouſneſſe, nor ſhadow of turning, nei<g ref="char:EOLhyphen"/>ther to the right hand nor to the left, where no errour is, and where none can be deceived. For truly I am full of power by the Spirit of the Lord, and of judgement, and of
+<pb n="7" facs="tcp:168501:4"/> might, to declare unto you your tranſgreſſions and your ſins: The Heads thereof judge for reward, and the Prieſts thereof teach for hire, and the Prophets thereof divine for money, yet will they lean upon the Lord and ſay, is not the Lord amongſt us? no evill can come upon us; But thus ſaith the Lord of hoſts, Hearken not unto the words of the Prophets, that Prophecy unto you, that make you vaine, they ſpeak a viſion of their own hearts, and not out of the mouth of the Lord, they ſay ſtill unto them that deſpiſe me, the Lord hath ſaid ye ſhall have peace, and they ſay unto every one that walketh after the imaginations of his own heart, no evill ſhall fall upon you: and ye are ſuch Teachers that ſay you have a body of ſin, and tell the people that they muſt have ſin, while they live in the world; and here you are made manifeſt, that you have not received the Mi<g ref="char:EOLhyphen"/>niſtry of reconciliation, nor you know not that which recon<g ref="char:EOLhyphen"/>ciles betwixt God and man, that which breaks down the par<g ref="char:EOLhyphen"/>tition wall, and makes of twain one new man.</p>
+               <p>Therefore ceaſe you Deceivers from deceiving the Peo<g ref="char:EOLhyphen"/>ple, and ſtop your mouths from blaſpheming the name of the righteous God, till you have departed from iniquity, for our God is a conſuming fire, and he anſwereth by fire. Therefore you are of <hi>Babell,</hi> for you have been crying and profeſſing theſe many years, and your ſins are ſtanding, and your iniquity is not covered; Hear ye perverters of Scripture, and teach men ſo to doe, and where will you be cleanſed? will you have a Purgatory after death, as the Papiſt Prieſts and Jeſuites will have, if ſo we deny you, and all your Jeſuiticall damnable doctrine.</p>
+               <p>Woe unto you Deceivers, woe unto you Merchants of <hi>Babylon,</hi> that buy and ſell the Letter for money, woe and miſery is your portion, except ye Repent, ye devourers of Gods Inheritance<g ref="char:punc">▪</g> God will rule you with his rod of iron, &amp; daſh you in peices like a potters veſſell, and there ſhall be none to deliver you, for the day is come and coming, that they ſhall not buy your Merchandize any more.</p>
+               <pb n="8" facs="tcp:168501:5"/>
+               <p> And ſo be you all warned Prieſts and People, and Repent, for I am clear of your blood at this time in the preſence of the dreadfull God of heaven and earth, who draws near unto Judgement.</p>
+            </div>
+            <closer>
+               <signed>
+                  <hi>From me who am a lover of ſoules, and the truth, as it is in Jeſus: who am in ſcorn called a</hi> Quaker, <hi>but am known to many by the name of</hi> Jeane Bettris.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth near Alderſgate, 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
